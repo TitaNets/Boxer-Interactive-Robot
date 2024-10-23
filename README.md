@@ -3,7 +3,7 @@ The Boxer Interactive A.I. Robot Toy, produced by Spin Master, appears to have b
 
 With Flipper Zero, you can now interact with Boxer, unlocking various play features such as different game modes and activities. Flipper Zero allows you to activate games and behaviors that were previously accessed through the app, offering a new way to engage with Boxer’s interactive capabilities without relying on a mobile device.
 
-Here's how to Activate some animations playing commands from Flipper Zero
+Here's how to Activate these features with Flipper Zero
 
 1. Copy wav files into the Flipper Zero microSD card (\wav_player\Boxer).
 2. Open the WAV Player and go to previous folder.
